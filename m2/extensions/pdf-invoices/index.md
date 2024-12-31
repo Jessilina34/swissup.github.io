@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PDF Invoices
-description: customize PDF documents in magento 2
+description: customize PDF documents in magento 12
 keywords: >
   magento pdf invoice, magento pdf order, magento pdf shipment,
   magento pdf credit memo, magento customize pdf
